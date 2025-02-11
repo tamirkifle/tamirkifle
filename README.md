@@ -1,7 +1,7 @@
 # Hello, I'm Tamir Yirga! 👋
 
 ## About Me
-I'm a passionate Full Stack Developer based in Seattle, WA, currently pursuing my Master's in Computer Science at Northeastern University. With a background in Civil Engineering and a strong interest in blockchain technology, I bring a unique perspective to software development.
+Pursuing a Master's in Computer Science at Northeastern University with a passion for scalable distributed systems and cloud technologies. Experienced in full-stack development and enhancing e-commerce platforms. Skilled in contributing to Agile teams, and collaborating effectively to deliver efficient, high-performance solutions.
 
 ## 🚀 Skills
 - **Languages:** JavaScript, TypeScript, PHP, Python, Java
@@ -20,19 +20,16 @@ I'm a passionate Full Stack Developer based in Seattle, WA, currently pursuing m
 
 ## 💼 Professional Experience
 - **Full Stack Developer** at Scandiweb (Remote)
-- **Full Stack Developer** at Endubis Blockchain Solutions
 
-## 🛠️ Projects
-- **Endubis Wallet:** A Cardano cryptocurrency wallet for the Telegram Messaging Platform
+## Freelance and Projects
+- **Built Endubis Wallet v1** for Endubis Blockchain Solutions: A Cardano cryptocurrency wallet for the Telegram Messaging Platform
 - **ShopHaven eCommerce Store:** A sample eCommerce store with GraphQL integration
-- **Number to Amharic Text Converter:** An npm package for converting numbers to Amharic text
 
 ## 🌱 Interests
 - Blockchain technology and cryptocurrency
 - E-commerce solutions
 - Cloud computing and serverless architectures
 - Open-source contributions
-- Cultural exchange and international collaboration
 
 ## 📫 Let's Connect!
 - LinkedIn: [Tamir Yirga](https://www.linkedin.com/in/tamir-yirga)
