@@ -1,6 +1,6 @@
 ### Hey, I'm Tamir!
 
-#### I'm working on...
+#### I'm interested in...
 - Scalable Distributed Systems
 - Machine Learning
 - Blockchain & Crypto
