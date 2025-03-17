@@ -1,12 +1,14 @@
-# Hey, I'm Tamir! 👋  
-💻 **CS Master's @ Northeastern**  
+### Hey, I'm Tamir!
 
-## 🌱 Interests  
-⚡☁️ **Scalable Systems & Cloud** | ⚙️ **Machine Learning** | ⛓ **Blockchain & Crypto** | 🛠️ **Open Source** | 🛍️ **E-commerce Tech**
+#### I'm working on...
+- Scalable Distributed Systems
+- Machine Learning
+- Blockchain & Crypto
+- Open Source
 
-## 💼 Interesting Projects  
-🔗 [**Endubis Wallet v1** – Cardano crypto wallet for Telegram](https://github.com/Endubis-Solutions/Endubis-Wallet-Bot)
+#### Notable Open Source Projects  
+- [Endubis Wallet v1 – Cardano crypto wallet for Telegram](https://github.com/Endubis-Solutions/Endubis-Wallet-Bot)
 
-## 📫 Connect with me!  
-🔗 [**LinkedIn: Tamir Yirga**](https://www.linkedin.com/in/tamir-yirga/)  
-🌍 [**Website**](https://tamirkifle.github.io)  
+#### Connect with me!  
+- [**LinkedIn: Tamir Yirga**](https://www.linkedin.com/in/tamir-yirga/)  
+- [**Website**](https://tamirkifle.github.io)  
