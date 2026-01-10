@@ -1,4 +1,4 @@
-<h1 align="center">Tamir Kyirga</h1>
+<h1 align="center">Tamir Yirga</h1>
 <h3 align="center">Full Stack Engineer | MS Computer Science @ Northeastern University</h3>
 
 <p align="center">
